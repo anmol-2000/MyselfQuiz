@@ -1,4 +1,4 @@
-# myselfQuiz-1-
+# MyselfQuiz
 Hey Coders, These is my first CLI based app with  Neog.Camp. With the use of NodeJs i created these "Myself Quiz" ,Please  see it.....
 
 ## Do You want to Play the Quiz?
