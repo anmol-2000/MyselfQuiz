@@ -10,6 +10,6 @@ Click on - ["Souce Code"](https://repl.it/@anmol190/myselfQuiz1#index.js)
 ## How i made these ?
 I learn these from NeogCamp hosted by Tanay Pratap.
 By using only two things
-*Repl.it (IDE)
-*Node.js
+* Repl.it (IDE)
+* Node.js
 
